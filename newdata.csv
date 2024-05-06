@@ -1,0 +1,102 @@
+Date,Time,Location,Temperature,Weather,Special,Traffic,Speed
+26-10-2023,08:00:00,Bangalore (Silk Board Junction),25,Sunny,None,1200,55
+26-10-2023,12:00:00,Chennai (Mount Road),28,Sunny,None,1800,45
+26-10-2023,18:00:00,Pune (Swargate Chowk),23,Clear Skies,None,1500,50
+27-10-2023,08:00:00,Hyderabad (Rajiv Gandhi Intl Airport),20,Smoggy,None,900,60
+27-10-2023,12:00:00,Mumbai (Bandra-Worli Sea Link),27,Sunny,None,2000,40
+27-10-2023,15:00:00,Delhi (India Gate),22,Smoggy,None,1100,55
+28-10-2023,08:00:00,Kolkata (Howrah Bridge),24,Sunny,Durga Puja (Starts),1300,50
+28-10-2023,12:00:00,Bangalore (Silk Board Junction),26,Sunny,None,1600,45
+28-10-2023,18:00:00,Chennai (Mount Road),29,Partly Cloudy,None,1400,50
+29-10-2023,08:00:00,Pune (Swargate Chowk),22,Light Rain,None,1000,55
+29-10-2023,12:00:00,Hyderabad (Rajiv Gandhi Intl Airport),28,Sunny,Diwali (Main Day),2200,40
+29-10-2023,18:00:00,Mumbai (Bandra-Worli Sea Link),27,Clear Skies,Diwali (Main Day),2800,30
+30-10-2023,08:00:00,Delhi (India Gate),20,Sunny,Diwali (Post Celebrations),1200,55
+30-10-2023,12:00:00,Kolkata (Howrah Bridge),26,Partly Cloudy,Durga Puja (Ends),1100,50
+30-10-2023,15:00:00,Bangalore (Chinnaswamy Stadium),30,Clear Skies,IPL Cricket Match,3200,20
+01-11-2023,08:00:00,Delhi (Noida Toll Bridge),18,Foggy,None,1000,40
+01-11-2023,12:00:00,Mumbai (Marine Drive),29,Sunny,Marathon (Finish Line),1700,35
+01-11-2023,18:00:00,Kolkata (Esplanade),27,Clear Skies,Street Food Festival,1300,45
+02-11-2023,08:00:00,Bangalore (MG Road),24,Sunny,None,1400,50
+02-11-2023,15:00:00,Chennai (Express Avenue),28,Partly Cloudy,Shopping Weekend,1900,40
+02-11-2023,18:00:00,Pune (Koregaon Park),23,Clear Skies,College Festival,1600,45
+03-11-2023,10:00:00,Hyderabad (Charminar),30,Sunny,Public Holiday,1200,50
+03-11-2023,15:00:00,Delhi (India Gate),22,Sunny,Art Exhibition,1400,45
+03-11-2023,18:00:00,Mumbai (Churchgate Station),28,Clear Skies,Peak Office Hours (End),2200,30
+04-11-2023,08:00:00,Kolkata (Howrah Station),26,Sunny,Peak Office Hours (Start),1800,40
+04-11-2023,12:00:00,Bangalore (Electronics City),25,Sunny,Industrial Area (Lunch Break),1500,45
+04-11-2023,18:00:00,Chennai (East Coast Road),29,Partly Cloudy,Weekend Getaway (Traffic Outflow),1700,50
+05-11-2023,10:00:00,Pune (Hinjewadi IT Park),24,Sunny,IT Hub (Mid-Morning),1900,40
+05-11-2023,15:00:00,Hyderabad (Rajiv Gandhi Intl Airport),30,Sunny,Outbound Flights (Peak),1300,50
+05-11-2023,18:00:00,Delhi (Cannaught Place),20,Smoggy,Diwali Market (Evening Rush),2000,35
+06-11-2023,12:00:00,Mumbai (Nariman Point),28,Clear Skies,Business District (Lunch Hour),1800,40
+06-11-2023,18:00:00,Kolkata (Victoria Memorial),25,Sunny,Tourist Hotspot (Evening),1400,45
+07-11-2023,10:00:00,Bangalore (Cubbon Park),24,Sunny,Weekend Picnic Spot (Mid-Morning),1600,45
+08-11-2023,08:00:00,Chennai (Perungalathur),27,Sunny,School Zone (Drop-off),1100,40
+08-11-2023,14:00:00,Pune (Pune-Mumbai Expressway),26,Clear Skies,Long-distance Travel (Peak),2300,50
+08-11-2023,18:00:00,Hyderabad (Secunderabad),29,Clear Skies,Wedding Reception (Evening Guests),1500,45
+09-11-2023,10:00:00,Delhi (Rajpath),21,Smoggy,Public Rally (Mid-Morning),1700,35
+09-11-2023,16:00:00,Mumbai (Bandra-Worli Sea Link),28,Partly Cloudy,Weekend Leisure Drive,1900,40
+09-11-2023,20:00:00,Kolkata (Howrah Bridge),24,Clear Skies,Night Market (Peak),1200,50
+10-11-2023,08:00:00,Bangalore (HAL Airport Road),25,Sunny,Airport Area (Morning Arrivals),1400,45
+10-11-2023,12:00:00,Chennai (Marina Beach),29,Sunny,Beach Day (Lunch Time),1800,40
+10-11-2023,17:00:00,Pune (Swargate Chowk),22,Clear Skies,Evening Commute (Start),2000,35
+11-11-2023,09:00:00,Hyderabad (Cyberabad),30,Sunny,IT Hub (Morning Rush),2200,30
+11-11-2023,13:00:00,Delhi (Chandni Chowk),23,Smoggy,Shopping District (Afternoon),1600,40
+11-11-2023,19:00:00,Mumbai (Marine Drive),27,Clear Skies,Weekend Nightlife (Start),1300,50
+12-11-2023,07:00:00,Kolkata (Esplanade),25,Sunny,Morning Walkers,800,55
+12-11-2023,11:00:00,Bangalore (Koramangala),24,Sunny,Residential Area (Brunch Time),1000,50
+12-11-2023,16:00:00,Chennai (T Nagar),28,Partly Cloudy,Shopping District (Evening),1800,40
+13-11-2023,10:00:00,Pune (FC Road),23,Clear Skies,College Area (Mid-Morning),1500,45
+13-11-2023,14:00:00,Hyderabad (Charminar),31,Sunny,Religious Festival (Afternoon Prayers),1300,50
+14-11-2023,06:00:00,Delhi (India Gate),18,Foggy,Morning Joggers,700,60
+14-11-2023,10:00:00,Mumbai (CST Station),29,Sunny,Train Arrivals (Peak),2100,35
+14-11-2023,17:00:00,Kolkata (Howrah Station),26,Clear Skies,Train Departures (Peak),1900,40
+15-11-2023,09:00:00,Bangalore (MG Road),24,Sunny,Weekend Market (Morning),1400,45
+15-11-2023,14:00:00,Chennai (Express Avenue),28,Partly Cloudy,Movie Release (Afternoon Shows),1800,40
+15-11-2023,20:00:00,Pune (Koregaon Park),22,Clear Skies,College Festival (Night Events),1700,35
+16-11-2023,12:00:00,Hyderabad (Hussain Sagar Lake),30,Sunny,Boating (Lunch Time),1100,50
+16-11-2023,16:00:00,Delhi (Chandni Chowk),21,Smoggy,Diwali After-sales (Peak),1900,40
+16-11-2023,19:00:00,Mumbai (Bandra-Worli Sea Link),27,Clear Skies,Weekend Drive (Evening),1500,45
+17-11-2023,07:00:00,Kolkata (Princes Street),25,Sunny,Heritage Walk (Start),900,55
+17-11-2023,11:00:00,Bangalore (Indiranagar),23,Sunny,Upscale Shopping Area (Brunch),1200,50
+17-11-2023,18:00:00,Chennai (East Coast Road),29,Partly Cloudy,Beach Retreat (Return Traffic),1600,40
+18-11-2023,09:00:00,Pune (Hinjewadi IT Park),22,Clear Skies,IT Hub (Mid-Morning),2000,40
+18-11-2023,13:00:00,Hyderabad (Rajiv Gandhi Intl Airport),32,Sunny,Incoming Flights (Peak),1400,50
+18-11-2023,20:00:00,Delhi (Cannaught Place),19,Smoggy,Office Parties (Night),1800,35
+19-11-2023,10:00:00,Mumbai (Nariman Point),28,Sunny,Business District (Mid-Morning Meeting),1700,40
+19-11-2023,15:00:00,Kolkata (Victoria Memorial),24,Clear Skies,Tourist Hotspot (Afternoon),1300,45
+19-11-2023,20:00:00,Bangalore (Cubbon Park),23,Clear Skies,Light & Sound Show (Evening),1500,40
+20-11-2023,08:00:00,Chennai (Perungalathur),26,Sunny,School Zone (Pick-up),1200,40
+20-11-2023,13:00:00,Pune (Pune-Mumbai Expressway),25,Clear Skies,Long-distance Travel (Afternoon),2100,50
+20-11-2023,19:00:00,Hyderabad (Secunderabad),28,Clear Skies,Local Festival (Night Celebrations),1400,45
+21-11-2023,09:00:00,Delhi (Rajpath),18,Smoggy,Government Parade (Morning),1600,35
+21-11-2023,15:00:00,Mumbai (Bandra-Worli Sea Link),27,Partly Cloudy,Monsoon Pre-Season (Light Showers),1800,40
+21-11-2023,21:00:00,Kolkata (Howrah Bridge),23,Clear Skies,Night Market (Closing Time),1000,50
+22-11-2023,07:00:00,Bangalore (HAL Airport Road),24,Sunny,Airport Area (Departures),1300,45
+22-11-2023,12:00:00,Chennai (Marina Beach),28,Sunny,Public Holiday (Lunch Crowd),1700,40
+22-11-2023,18:00:00,Pune (Swargate Chowk),21,Clear Skies,Weekend Getaway (Return Traffic),1900,35
+23-11-2023,08:00:00,Hyderabad (Cyberabad),29,Sunny,IT Hub (Morning Commute),2000,30
+23-11-2023,14:00:00,Delhi (Chandni Chowk),22,Smoggy,Street Food Festival (Peak Hours),1500,40
+23-11-2023,20:00:00,Mumbai (Marine Drive),26,Clear Skies,Weekend Nightlife (Peak),1200,50
+24-11-2023,06:00:00,Kolkata (Esplanade),24,Sunny,Cycling Enthusiasts (Morning Ride),800,55
+24-11-2023,10:00:00,Bangalore (Koramangala),23,Sunny,Residential Area (Brunch Time),900,50
+24-11-2023,15:00:00,Chennai (T Nagar),27,Partly Cloudy,Pre-wedding Shopping (Afternoon),1700,40
+25-11-2023,09:00:00,Pune (FC Road),22,Clear Skies,College Area (Lectures),1400,35
+25-11-2023,13:00:00,Hyderabad (Charminar),30,Sunny,None,1100,50
+25-11-2023,19:00:00,Delhi (India Gate),17,Foggy,None,1000,40
+26-11-2023,07:00:00,Mumbai (CST Station),28,Sunny,Morning Commute (Peak),2200,35
+26-11-2023,11:00:00,Kolkata (Howrah Station),25,Clear Skies,None,1800,40
+26-11-2023,16:00:00,Bangalore (MG Road),23,Sunny,Weekend Market (Evening),1500,45
+27-11-2023,09:00:00,Chennai (Express Avenue),27,Partly Cloudy,None,1700,40
+27-11-2023,14:00:00,Pune (Koregaon Park),21,Clear Skies,College Exams (End Time),1300,45
+28-11-2023,12:00:00,Hyderabad (Hussain Sagar Lake),29,Sunny,Boating (Lunch Time),1000,50
+28-11-2023,18:00:00,Delhi (Chandni Chowk),20,Smoggy,None,1800,40
+28-11-2023,19:00:00,Mumbai (Bandra-Worli Sea Link),26,Clear Skies,Scenic View (Evening),1400,45
+29-11-2023,07:00:00,Kolkata (Princes Street),24,Sunny,Heritage Walk (Start),800,55
+29-11-2023,11:00:00,Bangalore (Indiranagar),22,Sunny,Upmarket Shopping Area (Brunch),1100,50
+29-11-2023,17:00:00,Chennai (East Coast Road),28,Partly Cloudy,Beach Picnic (End Time),1500,40
+30-11-2023,08:00:00,Pune (Hinjewadi IT Park),21,Clear Skies,IT Hub (Office Start),1900,40
+30-11-2023,12:00:00,Hyderabad (Rajiv Gandhi Intl Airport),31,Sunny,Outbound Flights (Midday),1200,50
+30-11-2023,19:00:00,Delhi (Cannaught Place),18,Smoggy,None,1700,35
+01-12-2023,09:00:00,Mumbai (Nariman Point),27,Sunny,Business Lunch Meetings,1600,40
